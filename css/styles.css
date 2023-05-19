@@ -1,0 +1,16 @@
+ul {
+    width: 20%;
+    list-style: none;
+
+}
+
+li {
+    text-align: center;
+    margin-bottom: 20px;
+    border: 1px solid #000;
+    padding: 10px 0;
+}
+
+.hide {
+    display: none;
+}
